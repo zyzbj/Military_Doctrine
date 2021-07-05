@@ -1,16 +1,16 @@
 <!-- 联合条令 -->
 
-## 出版物划分
+## 联合出版物 (JP)
 
-### 联合出版物 (JP)
+联合出版物 (JP) *Joint Publication*
 
-#### 战略级
+### 战略级
 
 <!-- ':ignore'表示忽略编译链接 -->
 * [X] [JP 0-2 *Unified Action Armed Forces (UNAAF)*](US/Joint_Staff/JP/JP1/JP%200-2%20Unified%20Action%20Armed%20Forces.pdf ':ignore')
 * [X] [JP 1 *Doctrine for the Armed Forces of the United States* 《美国武装部队的联合作战》(第1号联合出版物)](US/Joint_Staff/JP/JP1/JP%201,%20Doctrine%20for%20the%20Armed%20Forces%20of%20the%20United%20States,%20Change%201.pdf ':ignore')
 
-#### 战役级
+### 战役级
 
 * [X] [JP 1-0 *Joint Personnel Support* 《联合作战人力资源支持、计划和协调》](US/Joint_Staff/JP/JP1/JP%201-0,%20Joint%20Personnel%20Support.pdf ':ignore')
 * [X] [JP 2-0 *Joint Intelligence* 《联合作战情报》](US/Joint_Staff/JP/JP2/JP%202-0%20Joint%20Intelligence.pdf ':ignore')
@@ -19,7 +19,7 @@
 * [X] [JP 5-0 *Joint Operation Planning* 《联合作战计划》](US/Joint_Staff/JP/JP5/JP%205-0,%20Joint%20Operation%20Planning.pdf ':ignore')
 * [X] [JP 6-0 *Joint Communications System* 《联合通信系统》](US/Joint_Staff/JP/JP6/JP%206-0%20Joint%20Communications%20System.pdf ':ignore')
 
-#### 战术级
+### 战术级
 
 * [X] [JP 1-02 *Department of Defense Dictionary of Military and Associated Terms*](US/Joint_Staff/JP/JP1/JP%201-02,%20Department%20of%20Defense%20Dictionary%20of%20Military%20and%20Associated%20Terrms.pdf ':ignore')
 * [X] [JP 1-03 *Chairman of the Joint Chiefs of Staff Manual*](US/Joint_Staff/JP/JP1/CJCSM%203150.01A,%20Joint%20Reporting%20Structure%20General%20Instructions%20(Joint%20Pub1-03%20Joint%20reporting%20structure%20general%20instructions.%20JP1_03_021220).pdf ':ignore')

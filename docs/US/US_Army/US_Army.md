@@ -6,6 +6,12 @@
 * 陆军技术出版物 (ATP) *Army Techniques Publication*
 * 陆军战术、技术与程序 (ATTP) *Army tactics, techniques, and procedures*
 
-[US_Army_Level](US_Army_Level.md ':include')
+[ADP](./ADP.md ':include')
 
-[US_Army_Publication](US_Army_Publication.md ':include')
+[ADRP](./ADRP.md ':include')
+
+[FM](./FM.md ':include')
+
+[ATP](./ATP.md ':include')
+
+[ATTP](./ATTP.md ':include')

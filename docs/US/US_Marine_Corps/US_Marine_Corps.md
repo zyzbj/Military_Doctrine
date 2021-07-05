@@ -6,6 +6,12 @@
 * 海军陆战队临时出版物 (MCIP) *Marine Corps Interim Publication*
 * 海军陆战队战术出版物 (MCTP) *Marine Corps Tactical Publication*
 
-[US_Marine_Corps_Level](US_Marine_Corps_Level.md ':include')
+[MCDP](./MCDP.md ':include')
 
-[US_Marine_Corps_Publication](US_Marine_Corps_Publication.md ':include')
+[MCWP](./MCWP.md ':include')
+
+[MCRP](./MCRP.md ':include')
+
+[MCIP](./MCIP.md ':include')
+
+[MCTP](./MCTP.md ':include')
