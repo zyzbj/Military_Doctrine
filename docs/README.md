@@ -12,12 +12,12 @@
 
 ## [美军](US/US.md)
 
-### [联合条令](US/Joint_Staff.md)
+### [联合条令](US/Joint_Staff/Joint_Staff.md)
 
-### [陆军条令](US/US_Army.md)
+### [陆军条令](US/US_Army/US_Army.md)
 
-### [海军条令](US/US_Navy.md)
+### [海军条令](US/US_Navy/US_Navy.md)
 
-### [海军陆战队条令](US/US_Marine_Corps.md)
+### [海军陆战队条令](US/US_Marine_Corps/US_Marine_Corps.md)
 
-### [空军条令](US/US_Air_Force.md)
+### [空军条令](US/US_Air_Force/US_Air_Force.md)
