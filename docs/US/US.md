@@ -20,7 +20,7 @@
 * 海军条令出版物 (NDP) *Naval Doctrine Publication*
 * 海军作战出版物 (NWP) *Navy Warfare Publication*
 * 海军战术、技术与程序出版物 (NTTP) *Navy tactics, techniques, and procedures*
-* 海军技术参考出版物 (NTRP) *Navy Tactical Reference Publication*
+* 海军战术参考出版物 (NTRP) *Navy Tactical Reference Publication*
 
 ### 海军陆战队条令
 

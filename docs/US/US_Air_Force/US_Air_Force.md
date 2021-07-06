@@ -4,7 +4,7 @@
 
 [AFDD](./AFDD.md ':include')
 
-## 其他出版物
+## 其他
 
 ### 特殊出版物 SP
 

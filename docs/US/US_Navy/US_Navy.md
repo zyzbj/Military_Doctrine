@@ -3,7 +3,7 @@
 * 海军条令出版物 (NDP) *Naval Doctrine Publication*
 * 海军作战出版物 (NWP) *Navy Warfare Publication*
 * 海军战术、技术与程序出版物 (NTTP) *Navy tactics, techniques, and procedures*
-* 海军技术参考出版物 (NTRP) *Navy Tactical Reference Publication*
+* 海军战术参考出版物 (NTRP) *Navy Tactical Reference Publication*
 
 [海军条令出版物 (NDP)](./NDP.md ':include')
 
@@ -11,9 +11,9 @@
 
 [海军战术、技术与程序出版物 (NTTP)](./NTTP.md ':include')
 
-[海军技术参考出版物 (NTRP)](./NTRP.md ':include')
+[海军战术参考出版物 (NTRP)](./NTRP.md ':include')
 
-## 其他出版物
+## 其他
 
 ### 海军 Navy
 
@@ -25,8 +25,10 @@
 * 战术注释 TACNOTES
 * 战术备忘录 TACMEMO
 * 海军通信程序 NTP
-* Navy Staff Office Publication NAVSO P
+* Navy Staff Office Publication  NAVSO P
 * 海军部长指示 SECNAV Instruction
+
+### Commands
 
 * 海军设施工程司令部 NAVFAC
 * 海军海上系统司令部 NAVSEA
