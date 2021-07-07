@@ -26,12 +26,10 @@
 * [X] [JP 1-04 *Legal Support to Military Operations* 《联合作战的法律支持》](US/Joint_Staff/JP/JP1/JP%201-04,%20Legal%20Support%20to%20Military%20Operations.pdf ':ignore')
 * [X] [JP 1-05 *Religious Affairs in Joint Operations* 《联合作战的宗教事务》](US/Joint_Staff/JP/JP1/JP%201-05,%20Religious%20Affairs%20in%20Joint%20Operations.pdf ':ignore')
 * [X] [JP 1-06 *Financial Management Support in Joint Operations* 《联合作战的财务管理》](US/Joint_Staff/JP/JP1/JP%201-06,%20Financial%20Management%20Support%20in%20Joint%20Operations.pdf ':ignore')
-
 * [X] [JP 2-01 *Joint and National Intelligence Support to Military Operations* 《联合作战的国家情报支持》](US/Joint_Staff/JP/JP2/JP%202-01,%20Joint%20and%20National%20Intelligence%20Support%20to%20Military%20Operations.pdf ':ignore')
 * [X] [JP 2-01.3 *Joint Intelligence Preparation of the Operational Environment* 《联合作战情报环境准备》](US/Joint_Staff/JP/JP2/JP%202-01.3,%20Joint%20Intelligence%20Preparation%20of%20the%20Operational%20Environment.pdf ':ignore')
 * [X] [JP 2-02 *National Intelligence Support to Joint Operations*](US/Joint_Staff/JP/JP2/JP%202-02%20National%20Intelligence%20Support%20to%20Joint%20Operations.pdf ':ignore')
 * [X] [JP 2-03 *Geospatial Intelligence Support to Joint Operations* 《联合作战的地理空间情报支持》](US/Joint_Staff/JP/JP2/JP%202-03%20Geospatial%20Intelligence%20Support%20to%20Joint%20Operations.pdf ':ignore')
-
 * [X] [JP 3-01 *Countering Air and Missile Threats* 《防空和反导》](US/Joint_Staff/JP/JP3/JP3-01_120323.pdf ':ignore')
 * [X] [JP 3-01.1 *Defense of the U.S. Against Air Attack*](US/Joint_Staff/JP/JP3/JP3_01.1_820201.pdf ':ignore')
 * [X] [JP 3-01.2 *Joint Doctrine for Theater Counterair Operations*](US/Joint_Staff/JP/JP3/JP3_01.2_860401.pdf ':ignore')
@@ -109,7 +107,6 @@
 * [X] [JP 3-68 *Noncombatant Evacuation Operations* 《非战斗人员的疏散行动》](US/Joint_Staff/JP/JP3/JP3_68_101223.pdf ':ignore')
 * [ ] [JP 3-80 《资源管理》]
 * [ ] [JP 3-84 《法律支持》]
-
 * [X] [JP 4-01 *Mobility System Policies, Procedures, and Considerations* 《联合作战的国防交通》](US/Joint_Staff/JP/JP4/JP%204-01c2%20Mobility%20System%20Policies,%20Procedures,%20and%20Considerations.pdf ':ignore')
 * [X] [JP 4-01.1 *Joint Tactics, Techniques and Procedures for Airlift Support to Joint Operations*](US/Joint_Staff/JP/JP4/JP%204-01.1%20JTTP%20for%20Airlift%20Support%20to%20Joint%20Operations.pdf ':ignore')
 * [ ] [JP 4-01.2 《联合作战的海上补给》]
@@ -124,9 +121,7 @@
 * [ ] [JP 4-08 《跨国后勤补给》]
 * [X] [JP 4-09 *Distribution Operations* 《物资分配和配送》](US/Joint_Staff/JP/JP4/JP%204-09,%20Distribution%20Operations.pdf ':ignore')
 * [X] [JP 4-10 *Operational Contract Support* 《联合作战后勤保障的合同支持》](US/Joint_Staff/JP/JP4/JP%204-10,%20Operational%20Contract%20Support.pdf ':ignore')
-
 * [X] [JP 5-00.2 *Joint Task Force Planning Guidance and Procedures*](US/Joint_Staff/JP/JP5/JP%205-00.2%20Joint%20Task%20Force%20Planning%20Guidance%20and%20Procedures.pdf ':ignore')
 * [X] [JP 5-03.1 *Joint Operation Planning and Execution System Volume I (Planning Policies and Procedures)*](US/Joint_Staff/JP/JP5/JP%205-03.1%20JOPES%20Vol%20I_%20Planning%20Policies%20and%20Procedures.pdf ':ignore')
-
 * [X] [JP 6-01 *Joint Electromagnetic Spectrum Management Operations* 《联合电磁频谱管理运作》](US/Joint_Staff/JP/JP6/JP%206-01,%20Joint%20Electromagnetic%20Spectrum%20Management%20Operations.pdf ':ignore')
 * [X] [JP 6-03.7 *Security Policy for the WWMCCS Intercomputer Network*](US/Joint_Staff/JP/JP6/JP%206-03.7%20Security%20Policy%20for%20the%20WWMCCS%20Intercomputer%20Network.pdf ':ignore')
